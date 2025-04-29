@@ -1,0 +1,14 @@
+We have all agreed on these attributions:
+
+Adhith worked on:
+-Encoder and Modelling
+
+Ibrahim worked on:
+-Encoder
+
+Jingjia worked on:
+-Modelling
+
+Peidong worked on:
+-Modelling
+

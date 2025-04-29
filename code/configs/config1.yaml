@@ -1,0 +1,13 @@
+data_path: '/ocean/projects/mth240012p/shared/data/raw_text.pkl'  
+epochs: 200
+batch_size: 32
+lr:         1.e-4
+mlm_prob:   0.15
+max_len:    256
+project:    bert-mlm
+run_name:   config1
+output_dir: ./checkpoints
+hidden_size:      128
+num_heads:        2
+num_layers:       2
+intermediate_size: 256
